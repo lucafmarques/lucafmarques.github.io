@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
+plugins:
+   - jekyll-seo-tag
 logo: eu.jpg
-description: Programador
+title: Luca F. Marques
+description: CS student at Brazilian university UNESP. Lover of snakes and gophers, hater of coffee, interested in functional programming.

@@ -5,8 +5,10 @@
 [lucafmarqs@gmail.com](mailto:lucafmarqs@gmail.com)
 
 ## Experiência
+* **Raccoon Marketing Digital**, São Carlos <200b> 
+
 * **Info Jr**, Rio Claro ​— _Diretor de Relações Comerciais_
-  ##### DESDE DEZEMBRO DE 2017
+  ##### DEZEMBRO DE 2017 - AGOSTO DE 2018
   
   Responsável por gerenciar a diretoria de Relações Comerciais, onde criamos e aplicamos todo o funil de vendas da empresa júnior.
 * **Info Jr**, Rio Claro - _Assessor de Relações Comerciais_

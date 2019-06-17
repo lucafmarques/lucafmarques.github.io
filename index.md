@@ -1,12 +1,12 @@
 # Luca Favaretto Marques
 
-##### Rua 11B, 1326 Rio Claro, São Paulo - 13506745, (+55)19 989757838.
-
 [lucafmarqs@gmail.com](mailto:lucafmarqs@gmail.com)
 
 ## Experiência
-* **Raccoon Marketing Digital**, São Carlos <200b> 
+* **Raccoon Marketing Digital**, São Carlos ​— _Estágiario em Desenvolvimento Full-stack_
+  ##### AGOSTO DE 2018 - ATUALMENTE
 
+  Desenvolvimento de projetos internos com foco em melhorar e facilitar o trabalho de outras áreas, desenvolvimento de projetos externos para clientes da Raccoon Marketing Digital, utilizando tecnologias como Kubernetes, Docker, Git, Prometheus, Grafana, Python, GoLang, JavaScript (React + Redux), CSS, HTML e GitLab CI/CD.  
 * **Info Jr**, Rio Claro ​— _Diretor de Relações Comerciais_
   ##### DEZEMBRO DE 2017 - AGOSTO DE 2018
   
